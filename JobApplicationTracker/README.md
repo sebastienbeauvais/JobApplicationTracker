@@ -70,6 +70,21 @@ npm run dev
 
 The app will be available at `http://localhost:3000`.
 
+### Running Both Services
+
+To start both the backend and frontend with a single command, use the provided shell script:
+
+```bash
+./RunApp.sh
+```
+
+This script starts both servers in the background and logs output to `backend.log` and `frontend.log`.
+
+> **Note:** If you receive a "Permission denied" error, make the script executable first:
+> ```bash
+> chmod +x RunApp.sh
+> ```
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
