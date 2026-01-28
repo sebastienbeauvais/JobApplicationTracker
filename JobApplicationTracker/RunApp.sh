@@ -9,5 +9,6 @@ npm run dev > ../frontend.log 2>&1 &
 
 echo "Backend log: backend.log"
 echo "Frontend log: frontend.log"
+echo "http://localhost:3000/"
 
 wait

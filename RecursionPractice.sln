@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructuresAndAlgorithms", "DataStructuresAndAlgorithms", "{9C1BBBC6-8039-4DBA-3917-2163FB226D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionPractice", "DataStructuresAndAlgorithms\RecursionPractice\RecursionPractice.csproj", "{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Debug|x64.Build.0 = Debug|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Debug|x86.Build.0 = Debug|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Release|x64.ActiveCfg = Release|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Release|x64.Build.0 = Release|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Release|x86.ActiveCfg = Release|Any CPU
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90B4AA53-FFCB-4905-A41F-49EA9AF8FEFC} = {9C1BBBC6-8039-4DBA-3917-2163FB226D88}
+	EndGlobalSection
+EndGlobal

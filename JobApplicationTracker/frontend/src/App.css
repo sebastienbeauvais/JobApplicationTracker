@@ -322,6 +322,12 @@ body {
   color: var(--color-text-light);
 }
 
+/* Dark mode form input text color */
+[data-theme='dark'] .form-input,
+[data-theme='dark'] .form-select {
+  color: var(--color-text);
+}
+
 .input-error {
   border-color: var(--color-error);
 }
