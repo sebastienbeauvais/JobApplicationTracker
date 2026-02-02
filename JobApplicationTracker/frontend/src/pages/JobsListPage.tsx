@@ -97,7 +97,7 @@ function JobRow({ job, onUpdate }: JobRowProps) {
           job.compensation_type
         )}
       </td>
-      <td>{formatDate(job.application_date)}</td>
+      <td>{job.application_date}</td>
       <td>
         <select
           value={job.status}
